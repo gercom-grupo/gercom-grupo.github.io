@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## GERCOM
 
-You can use the [editor on GitHub](https://github.com/gercom-grupo/gercom-grupo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+O Grupo de Engenharia de Software e Redes Computacionas (GERCOM) destina-se a reunir diversos projetos de desenvolvimento.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Confira alguns de nossos projetos:
 
-### Markdown
+* DESENVOLVIMENTO DE UM PROTÓTIPO COMPUTACIONAL PARA INVENTARIAÇÃO DA OFERTA TURÍSTICA SEGUINDO A METODOLOGIA DO MINISTÉRIO DO TURISMO
+  * Desenvolver um protótipo computacional, para dispositivos móveis, que permita a inventariação da oferta turística dos municípios seguindo a metodologia de inventariação sugerida pelo Ministério do Turismo, possibilitando, com sua implementação, um instrumento base para o planejamento e a gestão da atividade turística.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* DESENVOLVIMENTO DE UMA APLICAÇÃO WEB PARA VISUALIZAÇÃO DE INFORMAÇÕES ECONÔMICO-FINANCEIRAS DE EMPRESAS PARA FINS EDUCACIONAIS
+  * Desenvolver um sistema computacional Web, estruturado em técnicas de mineração e processamento de dados, para disponibilizar, em variadas formas e visões, informações econômico-financeiras das empresas ativas no Brasil. Esse sistema é destinado, prioritariamente, para fins educacionais, de modo a tornar mais próxima a teoria da prática e proporcionar uma maior compreensão das informações para a tomada de decisão financeira pelos agentes educacionais – professores, estudantes e pesquisadores.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gercom-grupo/gercom-grupo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* DESENVOLVIMENTO DE UM SISTEMA COMPUTACIONAL PARA CONVERSAÇÃO SOBRE A POLÍTICA DE ASSISTÊNCIA ESTUDANTIL DO IFCE
+  * Desenvolver um sistema computacional, caracterizado como chatbot (robô de conversação), capaz de dialogar com os estudantes sobre a política de assistência estudantil do IFCE, tirando dúvidas e promovendo informações sobre os programas, projetos e ações desenvolvidos no âmbito do campus e da instituição, como forma de viabilizar o acesso, a permanência e o êxito dos discentes.
